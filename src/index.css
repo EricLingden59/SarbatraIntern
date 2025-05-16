@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+a {
+    cursor: pointer;
+}
+button {
+    cursor: pointer;
+}
+
+.home_bg {
+    background-image: url('/src/assets/gotrip_bgImage.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+   
+}
+.text:hover {
+color: blue;
+}
+
+.destination_bg {
+    background-image: url("https://creativelayers.net/themes/gotrip-html/img/pages/destinations/1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+  
+  
+
+
