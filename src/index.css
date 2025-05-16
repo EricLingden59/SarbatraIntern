@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+a {
+    cursor: pointer;
+}
+button {
+    cursor: pointer;
+}
+
+.home_bg {
+    background-image: url('/src/assets/gotrip_bgImage.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+   
+}
+.text:hover {
+color: blue;
+}
+.home1_bg {
+    background-image:url('C:\Users\Dell\Desktop\intern\sarbatra\SarbatraIntern\src\assets\gotrip_bgImage.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-position: center;
+    width: 100%;
+    height: 10%;
+
+}
